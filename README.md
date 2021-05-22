@@ -12,7 +12,7 @@ Then run the development server:
 yarn dev
 ```
 
-Open [http://localhost:3000/appointments](http://localhost:3000) with your browser to see the implemented task
+Open [http://localhost:3000/appointments](http://localhost:3000/appointments) with your browser to see the implemented task
 
 ## Editor
 
