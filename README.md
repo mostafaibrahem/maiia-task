@@ -1,4 +1,4 @@
-## MAIIA - Frontend Technical Test
+## MAIIA - Frontend Technical Test (Done)
 
 First install the project dependencies:
 
@@ -12,7 +12,7 @@ Then run the development server:
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see instructions for the technical test.
+Open [http://localhost:3000/appointments](http://localhost:3000) with your browser to see the implemented task
 
 ## Editor
 
